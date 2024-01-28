@@ -47,7 +47,7 @@ Detailed description of the database schema, including ER diagrams and table des
 
 ### Contributors
 - [Leelasrinivasraju Sarikonda](https://github.com/leelasrinivasrajusarikonda)
-- [Mohan Saty Surapa Raju Nadimpalli](https://github.com/leelasrinivasrajusarikonda)
+- [Mohan Saty Surapa Raju Nadimpalli](https://github.com/mohanvarma16)
 
 ### License
 ```text
