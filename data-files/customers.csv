@@ -1,4 +1,4 @@
-id,name,phone_number,email,address,city,postal_code,country
+customer_id,name,phone_number,email,address,city,postal_code,country
 1,Rudd Kix,+7 254 502 1897,rkix0@hibu.com,8 Bunker Hill Road,Vorontsovka,396449,Russia
 2,Buckie Gress,+7 705 690 4023,bgress1@chicagotribune.com,91 Hauk Drive,Tarusa,249111,Russia
 3,Loretta Bannerman,+84 721 828 1902,lbannerman2@wordpress.org,2 Drewry Hill,Thị Trấn Na Sầm,,Vietnam

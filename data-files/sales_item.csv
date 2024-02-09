@@ -1,4 +1,4 @@
-order_id,product_id,amount,quantity
+sale_id,product_id,amount,quantity
 290,149,576,29
 188,146,667,38
 250,99,742,35
