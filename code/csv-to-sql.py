@@ -15,7 +15,6 @@ def generate_insert_statements(directory):
                 reader = csv.reader(csvfile)
                 headers = next(reader)  # Get headers for column names
                 columns = ", ".join(headers)
-                placeholders = ", ".join(["%s"] * len(headers))
 
                 # Initialize a list to hold each row's INSERT statement
                 insert_statements = []
@@ -32,4 +31,5 @@ def generate_insert_statements(directory):
                         sqlfile.write(stmt + "\n")
 
 
-generate_insert_statements('../data-files')
+if __name__ == "__main__":
+    generate_insert_statements('../data-files')
