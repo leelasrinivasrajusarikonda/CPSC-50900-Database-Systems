@@ -1,0 +1,10 @@
+INSERT INTO categories (category_id, name, description) VALUES ('1', 'Clothing', 'Nullam porttitor lacus at turpis.');
+INSERT INTO categories (category_id, name, description) VALUES ('2', 'Toys', 'Praesent blandit lacinia erat.');
+INSERT INTO categories (category_id, name, description) VALUES ('3', 'Computers', 'Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis.');
+INSERT INTO categories (category_id, name, description) VALUES ('4', 'Automotive', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.');
+INSERT INTO categories (category_id, name, description) VALUES ('5', 'Jewelry', 'Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo.');
+INSERT INTO categories (category_id, name, description) VALUES ('6', 'Games', 'Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.');
+INSERT INTO categories (category_id, name, description) VALUES ('7', 'Movies', 'Etiam justo. Etiam pretium iaculis justo.');
+INSERT INTO categories (category_id, name, description) VALUES ('8', 'Baby', 'Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.');
+INSERT INTO categories (category_id, name, description) VALUES ('9', 'Books', 'In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl.');
+INSERT INTO categories (category_id, name, description) VALUES ('10', 'Jewelry', 'In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.');

@@ -1,0 +1,10 @@
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('1', 'Edgeblab', '276-157-1523', 'ctollfree0@baidu.com', '04680 Hoffman Terrace', 'A1245786985');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('2', 'Voomm', '765-288-0940', 'wkoba1@engadget.com', '068 Judy Point', 'A1345789575');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('3', 'Chatterbridge', '127-886-8957', 'fsobtka2@netlog.com', '30 Anderson Hill', 'A1346792589');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('4', 'Jetpulse', '585-170-7080', 'rdicke3@answers.com', '48 David Court', 'A5943197648');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('5', 'Demizz', '928-356-5327', 'wcockerill4@ted.com', '0 Loomis Lane', 'A1967154618');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('6', 'Topicware', '514-487-1395', 'ltyers5@csmonitor.com', '595 Waubesa Parkway', 'A2548691349');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('7', 'Yombu', '479-690-1616', 'kdimmne6@wunderground.com', '461 Old Gate Way', 'A2648595713');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('8', 'Skivee', '788-452-7902', 'pdrinnan7@rakuten.co.jp', '04574 Helena Junction', 'A1915264864');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('9', 'Fivebridge', '542-385-9264', 'mhaney8@patch.com', '66 Cambridge Alley', 'A1956487923');
+INSERT INTO suppliers (supplier_id, name, phone_number, email, address, account_number) VALUES ('10', 'Roodel', '731-525-9989', 'rleadston9@techcrunch.com', '773 Reinke Circle', 'A1223455648');
