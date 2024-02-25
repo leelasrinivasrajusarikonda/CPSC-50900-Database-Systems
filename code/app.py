@@ -40,11 +40,12 @@ def generate_report(database, query):
         print(f"Error: {e}")
 
 
-# Database name
-database_name = 'retail'
-# Query 1
-query_string = 'SELECT * FROM suppliers;'
-print("*** SUPPLIERS ***")
+if __name__ == "__main__":
+    # Database name
+    database_name = 'retail'
+    # Query 1
+    query_string = 'SELECT * FROM suppliers;'
+    print("*** SUPPLIERS ***")
 
-# Call the function to generate the report
-generate_report(database_name, query_string)
+    # Call the function to generate the report
+    generate_report(database_name, query_string)
